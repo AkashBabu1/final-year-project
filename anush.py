@@ -1,1 +1,1 @@
-print("there is lot's of things are available for the work")
+print("there is lot's of things are thalapathy for the work") 
